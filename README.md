@@ -2,4 +2,4 @@
 
 
 - 💡 In love with open-source and Styling.
-- 🔭  My current focus is to broaden and deepen my knowledge in JavaScript and TypeScript.
+- 🔭 My current focus is to broaden and deepen my knowledge in TypeScript and Python.
