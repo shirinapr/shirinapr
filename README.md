@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=24&pause=1000&color=FAEDCD&width=435&lines=Hey+I'm+Shirin!;A+React+developer;Nice+to+meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=26&duration=6000&pause=1000&color=84A98C&vCenter=true&width=440&lines=Hey+I'm+Shirin!;A+React+developer;Nice+to+meet+you.)](https://git.io/typing-svg)
 
 
     💡 In love with open-source and Styling.
